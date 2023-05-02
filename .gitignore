@@ -25,3 +25,6 @@ nohup.out
 
 .config/
 .npm/
+
+.obsidian/
+
